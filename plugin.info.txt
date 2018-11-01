@@ -1,0 +1,6 @@
+base emailobfuscator
+author Allan Boll
+email allan@acoby.com
+date 2014-07-26
+name Obfuscate email addresses
+desc Obfuscate email addresses
